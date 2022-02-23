@@ -1,8 +1,7 @@
 ### Привет!! меня зовут Кирилл, я начинающий фронтенд-разработчик. 👋
+
 ```html
-<h1 align="center">Привет!! меня зовут Кирилл>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1>А я просто текст</h1>
 ``` 
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
