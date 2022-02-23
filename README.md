@@ -1,10 +1,17 @@
 ### Привет!! меня зовут Кирилл, я начинающий фронтенд-разработчик. 👋
 
+## Обо мне
+
+
+## Моя деятельность в настоящее время
+🔭 сейчас работаю над проектом Mesto на React
+
 
 
 [![codewars](https://www.codewars.com/users/teacher90/badges/small)](https://www.codewars.com/users/teacher90) 
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+## Мой стек:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
