@@ -4,6 +4,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 ``` 
+
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 <!--
 **KirillTsurkan/KirillTsurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
